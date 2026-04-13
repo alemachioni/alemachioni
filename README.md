@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hey there! 👋 I'm Alexandre
 
-<!--
-**alemachioni/alemachioni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**CS Student @ Instituto Mauá de Tecnologia**  
+Infrastructure, Networking & Security Focus
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Currently Learning
+
+- **CCNA 200-301** - Cisco networking certification (target: Dec 2026)
+- **SAP S/4HANA** - Enterprise systems
+
+---
+
+## ✅ Completed
+
+- OverTheWire Bandit - Linux & security fundamentals
+- SAPFUN S/4HANA Fundamentals
+- CCST Networking
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Python, Bash, SQL  
+**Tools:** Cisco Packet Tracer, Linux, Git  
+**Focus:** Networking, Infrastructure, Security
+
+---
+
+## 📍 Goals
+
+- Complete CCNA by Dec 2026
+- Secure technical internship (2027)
+- 8 certifications by graduation (Dec 2028)
+
+---
+
+## 📬 Reach Me
+
+- **LinkedIn:** [Profile](https://linkedin.com/in/alexandre-andrade-machioni-pereira-dos-santos-53bb00376)
+- **Email:** alemachioni@gmail.com
+
+---
+
+*Building expertise in networking infrastructure and security.*
