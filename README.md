@@ -1,7 +1,7 @@
 # Alexandre Machioni
 
 CS Student @ Instituto Mauá de Tecnologia  
-Infrastructure, Networking & Security Focus
+Infrastructure, Networking, Security & SAP Focus
 
 ## Currently Learning
 
@@ -18,7 +18,7 @@ Infrastructure, Networking & Security Focus
 
 Languages: Python, Bash, SQL  
 Tools: Cisco Packet Tracer, Linux, Git  
-Focus: Networking, Infrastructure, Security
+Focus: Networking, Infrastructure, Security, Enterprise Systems
 
 ## Goals
 
@@ -33,4 +33,4 @@ Email: alemachioni@gmail.com
 
 ---
 
-Building expertise in networking infrastructure and security.
+Building expertise in networking infrastructure, security, and enterprise systems.
